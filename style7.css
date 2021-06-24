@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.cont{
+  
+  align-items: center;
+  width:70%;
+  height: 90%;
+  background-color: rgb(163, 159, 160);
+  position: relative;
+}
+.div{
+  padding: 10px;
+  margin: 10px;
+}
+p{
+  margin-top: 20px;
+}
+button{
+  width: 50px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+p{
+  display: none;
+}
+.para{
+  display: block;
+}
